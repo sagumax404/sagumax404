@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samet Gümüş</h1>
-- 🔭 I’m currently working on [an AUV project](https://github.com/dalay-team) and. [discord bot project](https://github.com/btu-cse-bot)
-
 - 📫 How to reach me **sagumax404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
